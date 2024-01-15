@@ -1,4 +1,4 @@
-# 🐞 Community-Hub (Bugtracker)
+# Community-Hub 
 
 ![Community-Hub Logo](https://merchriva.de/wp-content/uploads/2023/11/icons8-flask-100.png)
 
