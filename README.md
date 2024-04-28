@@ -2,7 +2,7 @@
 
 Herzlich willkommen auf der Feedbackseite von Merchant Revival! Diese Feedbackseite ist der zentrale Ort, um Bugs zu melden, Verbesserungsvorschläge einzubringen und allgemeines Feedback für das gesamte Projekt zu geben. Deine Teilnahme ist uns wichtig, und wir schätzen jede Meldung, die dazu beiträgt, unsere Projekte zu verbessern.
 
-[Feedback anzeigen]([https://github.com/Merchant-Revival/Community-Hub/issues](https://github.com/Merchant-Revival/Feedback/issues))
+[Feedback anzeigen](https://github.com/Merchant-Revival/Feedback/issues)
 
 ## Fehler melden
 
