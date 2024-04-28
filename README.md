@@ -1,12 +1,6 @@
-# Community-Hub 
+Herzlich willkommen auf der Feedbackseite von Merchant Revival! Diese Feedbackseite ist der zentrale Ort, um Bugs zu melden, Verbesserungsvorschläge einzubringen und allgemeines Feedback für das gesamte Projekt zu geben. Deine Teilnahme ist uns wichtig, und wir schätzen jede Meldung, die dazu beiträgt, unsere Projekte zu verbessern.
 
-![Community-Hub Logo](https://merchriva.de/wp-content/uploads/2023/11/icons8-flask-100.png)
-
-## Willkommen beim Merchant Revival Bugtracker!
-
-Herzlich willkommen im Bugtracker von Merchant Revival! Dieser Community-Hub ist der zentrale Ort, um Bugs zu melden, Verbesserungsvorschläge einzubringen und allgemeines Feedback für das gesamte Projekt zu geben. Deine Teilnahme ist uns wichtig, und wir schätzen jede Meldung, die dazu beiträgt, unsere Projekte zu verbessern.
-
-## Bugs Melden
+## Fehler melden
 
 Wenn du auf einen Bug stößt, erstelle bitte eine [Issue](https://github.com/Merchant-Revival/Community-Hub/issues) mit den folgenden Informationen:
 
@@ -33,5 +27,5 @@ Wir schätzen deine Beiträge und Teilnahme an unserem Bugtracker! Lies bitte di
 ## Kontakt
 
 - 📧 **E-Mail:** [support@merchriva.de](mailto:support@merchriva.de)
-- 💬 **Discord:** [Discord-Server](https://discord.gg/Vf4RvXzGqC)
+- 💬 **Discord:** [Discord-Server](https://discord.merchriva.de)
 - 🌐 **Website:** [merchriva.de](https://merchriva.de/)
